@@ -1,0 +1,4 @@
+/backend/core/__pycache__
+/backend/rag/__pycache__
+/venv
+/backend/rag/migrations/__pycache__

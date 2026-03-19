@@ -1,0 +1,14 @@
+django
+django-cors-headers
+django-environ
+psycopg2-binary
+pgvector
+redis
+django-redis
+ollama
+sentence-transformers
+streamlit
+pandas
+plotly
+requests
+python-dotenv
